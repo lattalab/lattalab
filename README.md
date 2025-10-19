@@ -44,7 +44,7 @@ Here is a summary of my projects grouped by technical domain. You can find the d
 
 * **[CSE282] Python 程式設計**
     * **Description**: programming assignment and course material.
-    * * **Technologies**: Python.
+    * **Technologies**: Python.
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_python)**
 
 * **[CSE497] JAVA物件導向程式設計**
@@ -64,7 +64,7 @@ Here is a summary of my projects grouped by technical domain. You can find the d
 
 * **[CSE399] 機器學習導論**
     * **Description**: Tradional machine learning algorithm but with some CNN course and pytorch.
-    * * **Technologies**: pandas, numpy, sklearn and pytorch.
+    * **Technologies**: pandas, numpy, sklearn and pytorch.
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_ML)**
 
 #### 🐧 Spring 2024
@@ -86,7 +86,7 @@ Here is a summary of my projects grouped by technical domain. You can find the d
 
 * **[CSE515] 高等電腦網路**
     * **Description**: Simulate how data was transfer in network-level.
-    * * **Technologies**: C and Linux.
+    * **Technologies**: C and Linux.
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_Advanced-Computer-Network)**
 
 #### ✏️ Spring 2025
