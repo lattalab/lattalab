@@ -20,7 +20,7 @@ Here is a summary of my projects grouped by technical domain. You can find the d
 ### 📚 **Coursework & Projects at NSYSU**
 
 #### 🌱 Spring 2022
-* **[	CSE122] 微積分（二）**
+* **[CSE122] 微積分（二）**
     * **Description**: Try to implement `fourier transform` with programming language.
     * **[➡️ View Project](https://github.com/lattalab/NSYSU_fourier_transform)**
 
@@ -53,7 +53,7 @@ Here is a summary of my projects grouped by technical domain. You can find the d
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_JAVA)**
 
 #### 🧠 Fall 2023
-* **[CSE312] 	組合語言與微處理機實驗**
+* **[CSE310] 組合語言與微處理機**
     * **Description**: I/O, branch instuction and mul/div function with GCD and LCM.
     * **Technologies**: ARM and x86.
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_Assembly)**
@@ -101,7 +101,7 @@ Here is a summary of my projects grouped by technical domain. You can find the d
     * **[➡️ View Project](https://github.com/lattalab/NSYSU_CV)**
 
 #### 🔥 Big Projects at school (Not solely work)
-* **🎓 Undergraduate Project**
+* **🎓 Undergraduate Project - AI 合成語音辨識的應用**
     * **Description**: Detecting AI-generated sound with different application
     * **Technologies**: C, Python, Vitis-AI and KV-260.
     * **[➡️ View Project](https://github.com/lattalab/AI-Generated-Sound-Project)**
