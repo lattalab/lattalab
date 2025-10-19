@@ -96,7 +96,7 @@ Here is a summary of my projects grouped by technical domain. You can find the d
     * **[➡️ View Project](https://github.com/lattalab/NSYSU_AdvanceML)**
 
 * **[EE5737] 電腦視覺**
-    * **Description**: Basic concept of deep learning and attached with [LEK-RED](https://github.com/PanchengZhao/LAKE-RED) project.
+    * **Description**: Basic concept of deep learning and attached with [LAKE-RED](https://github.com/PanchengZhao/LAKE-RED) project.
     * **Technologies**: Python and Tensorflow
     * **[➡️ View Project](https://github.com/lattalab/NSYSU_CV)**
 
