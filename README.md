@@ -26,12 +26,12 @@ Here is a summary of my projects grouped by technical domain. You can find the d
 
 #### 🔭 Fall 2022
 * **[CSE215] 資料結構**
-    * **Description**: Implemented various data structures like stack, queue, linked-list, sorting algorithm, Huffman trees.
+    * **Description**: Implemented various data structures like Stack, Queue, Linked-list, sorting algorithm, Huffman trees.
     * **Technologies**: C/CPP.
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_DataStructure)**
 
 * **[CSE284] 	SystemC 與數位系統設計概論**
-    * **Description**: Implemented simple AI network like LeNet in systemC.
+    * **Description**: Implemented simple AI network like LeNet in SystemC.
     * **Technologies**: SystemC and MobaXterm.
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_SystemC_hw)**
     * **[➡️ View Project](https://github.com/lattalab/NSYSU_SystemC_final)**
@@ -39,22 +39,22 @@ Here is a summary of my projects grouped by technical domain. You can find the d
 #### 💡 Spring 2023
 * **[CSE223] 資料探勘**
     * **Description**: Implemented simple supervised learning algorithm (KNN), unsupervised learning (cluster) and oversampling.
-    * **Technologies**: Python and sklearn.
+    * **Technologies**: Python and Sklearn.
     * **[➡️ View Project](https://github.com/lattalab/NSYSU_datamining)**
 
 * **[CSE282] Python 程式設計**
-    * **Description**: programming assignment and course material.
+    * **Description**: Programming assignment and course material.
     * **Technologies**: Python.
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_python)**
 
 * **[CSE497] JAVA物件導向程式設計**
-    * **Description**: programming assignment and course material.
+    * **Description**: Programming assignment and course material.
     * **Technologies**: Python. (Yap, don't speculate it)
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_JAVA)**
 
 #### 🧠 Fall 2023
 * **[CSE312] 	組合語言與微處理機實驗**
-    * **Description**: I/O, branch and mul/div.
+    * **Description**: I/O, branch instuction and mul/div function with GCD and LCM.
     * **Technologies**: ARM and x86.
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_Assembly)**
 
@@ -63,25 +63,25 @@ Here is a summary of my projects grouped by technical domain. You can find the d
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_Algo)**
 
 * **[CSE399] 機器學習導論**
-    * **Description**: Tradional machine learning algorithm but with some CNN course and pytorch.
-    * **Technologies**: pandas, numpy, sklearn and pytorch.
+    * **Description**: Tradional machine learning algorithm but with some CNN course and Pytorch.
+    * **Technologies**: pandas, numpy, Sklearn and Pytorch.
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_ML)**
 
 #### 🐧 Spring 2024
 * **[CSE360] 編譯器製作**
-    * **Description**: simulate compiler to detect keywords or syntax error.
+    * **Description**: Develope program to simulate compiler behavior such as detect keywords or syntax error.
     * **Technologies**: LEX and YACC
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_complier)**
 
 * **[CSE365] UNIX系統程式**
-    * **Description**: develope programs with UNIX-command.
+    * **Description**: Develope programs with UNIX-command.
     * **Technologies**: Cygwin (or other UNIX-like terminal)
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_UNIX)**
 
 #### 🤯 Fall 2024
 * **[CSE425] 	硬體描述語言**
-    * **Description**: 3 type of modling, pipeline and AI accelerator.
-    * **Technologies**: Verilog.
+    * **Description**: 3 type of modeling, pipeline and AI accelerator.
+    * **Technologies**: Verilog, Virtuoso, nWave, Prime Time and Design Compiler.
     * **[➡️ View Homework](https://github.com/lattalab/NSYSU_HDL)**
 
 * **[CSE515] 高等電腦網路**
@@ -92,7 +92,7 @@ Here is a summary of my projects grouped by technical domain. You can find the d
 #### ✏️ Spring 2025
 * **[CSE523] 進階機器學習**
     * **Description**: Deep learning approach such as CNN, RNN, Autoencoder, GAN etc.
-    * **Technologies**: pytorch but Good GPU recommended.
+    * **Technologies**: Python and Pytorch but Good GPU recommended.
     * **[➡️ View Project](https://github.com/lattalab/NSYSU_AdvanceML)**
 
 * **[EE5737] 電腦視覺**
@@ -100,14 +100,14 @@ Here is a summary of my projects grouped by technical domain. You can find the d
     * **Technologies**: Python and Tensorflow
     * **[➡️ View Project](https://github.com/lattalab/NSYSU_CV)**
 
-#### 🔥 Big Project at school (Not solely work)
+#### 🔥 Big Projects at school (Not solely work)
 * **🎓 Undergraduate Project**
     * **Description**: Detecting AI-generated sound with different application
     * **Technologies**: C, Python, Vitis-AI and KV-260.
     * **[➡️ View Project](https://github.com/lattalab/AI-Generated-Sound-Project)**
 
 * **🏛️ Research Project**
-    * **Description**: Detecting sound from ocean creatures but with AI and AI-Accelerator.
+    * **Description**: Detecting sound from ocean creatures but with AI and AI-Accelerator Hardware.
     * **Technologies**: C, Python, Vitis-AI and LAB customized AI-Accelerator Hardware.
     * **[➡️ View Project](https://github.com/lattalab/Aqua_Sound)**
 ---
